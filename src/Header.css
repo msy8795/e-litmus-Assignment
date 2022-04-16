@@ -1,0 +1,10 @@
+#navbar {
+    text-align: center;
+    max-width: 900px;
+    margin: 30px auto;
+    font-weight: bolder;
+    color: #d84417;
+    font-size: 30px;
+    letter-spacing: 3px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
